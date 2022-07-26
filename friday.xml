@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <child foo="bar">
+    <vishnu baz="fizbuzz">child vishnu</vishnu>
+    <Xkg_yDLmQ>child Xkg_yDLmQ</Xkg_yDLmQ>
+  </child>
+</root>

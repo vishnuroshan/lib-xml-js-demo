@@ -1,0 +1,19 @@
+{
+  "name": "lib-xml",
+  "version": "1.0.0",
+  "description": "lib xml js handson ",
+  "main": "bin/index.js",
+  "bin": {
+    "libxmldemo": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vishnu",
+  "license": "MIT",
+  "dependencies": {
+    "libxmljs": "^0.19.10",
+    "shortid": "^2.2.16",
+    "yargs": "^17.5.1"
+  }
+}
